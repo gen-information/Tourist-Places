@@ -2,7 +2,7 @@
   <head>
     <style>
       h1{text-align:center;font-size:30px;font-family: 'Pacifico', cursive;}
-      img{border:solid; height:520px; width:520px;}
+      img{border:solid; height:220px; width:300px;}
       body{text-align:center;}
       a{text-align:center;font-size:30px;font-family: 'Pacifico', cursive;}
     </style>
